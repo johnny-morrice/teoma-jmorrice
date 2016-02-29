@@ -3,6 +3,7 @@ languageCode = "en-gb"
 title = "jmorrice"
 
 disableRSS = true
+canonifyurls = true
 
 
 [taxonomies]
