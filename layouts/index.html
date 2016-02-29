@@ -26,7 +26,7 @@ That is why you are here.</em></p>
     <h2 id="rants" class="page-center">My writings:</h2>
     <div class="page-center intro box curve">
     {{ range where .Data.Pages "Params.importance" "interest"}}
-      <p>{{.Date.Format "02-01-2006"}} <a href={{ .Permalink }}>{{.LinkTitle}}</a></p>
+      <p>{{.Date.Format "02-01-2006"}} <a href={{ .RelPermalink }}>{{.LinkTitle}}</a></p>
     {{ end }}
   </div>
   </body>
