@@ -1,18 +1,17 @@
 body {
     color: rgb(200, 200, 200);
     background-color: black;
+    color: rgb(0, 255, 0);
     font-family: 'Roboto', sans-serif;
+    height: 100%;
 }
 
 #title-bar {
-    background-color: black;
-    color: rgb(0, 255, 0);
     padding-top: 0.5em;
 }
 
-#greeting {
-    background-color: black;
-    color: rgb(0, 255, 0);
+.long {
+    height: 100%;
 }
 
 .page-center {
@@ -28,29 +27,37 @@ body {
     border-style: double;
 }
 
-.project {
+.box {
     background-color: rgb(200, 200, 200);
     color: black;
     padding: 1em;
+    margin-top: 1em;
     border-style: double;
     overflow: auto;
 }
 
-.project img {
+.intro img {
     float: left;
     margin-right: 1em;
     height: 5em;
 }
 
-.project a {
+.article img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box a {
     color: black;
 }
 
-.project a:hover {
+.box a:hover {
     color: black;
 }
 
-.project a:visited {
+.box a:visited {
     color: black;
 }
 

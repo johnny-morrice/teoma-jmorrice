@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>{{ .Title }}</title>
-</head>
+ <head>
+  {{ partial "header.html" .}}
+  <title>{{ .Title }}</title>
+  </head>
 <body>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+    <h1 class="page-center">{{ .Title }}</h1>
+    <h2 class="page-center">Published on {{ .PublishDate.Format "02-01-2006"}}</h2>
+    <div class="curve box article long page-center">
+      {{ .Content }}
+    </div>
 </body>
 </html>
