@@ -6,7 +6,7 @@
   </head>
 <body>
     <h1 class="page-center">{{ .Title }}</h1>
-    <h2 class="page-center">Published on {{ .PublishDate.Format "02-01-2006"}}</h2>
+    <h2 class="page-center">Published on {{ .Date.Format "02-01-2006"}}</h2>
     <div class="curve box article long page-center">
       {{ .Content }}
     </div>
