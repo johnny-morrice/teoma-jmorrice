@@ -1,6 +1,6 @@
 +++
-date = "2016-02-29T14:25:27Z"
-draft = true
+date = "2016-02-29T17:38:34Z"
+draft = false
 title = "godelbrot: A Unix Style Fractal Renderer"
 projects = ["godelbrot"]
 sentiments = ["pride"]

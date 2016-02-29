@@ -1,6 +1,6 @@
 +++
-date = "2016-02-29T16:16:29Z"
-draft = true
+date = "2016-02-29T17:39:09Z"
+draft = false
 title = "Godelbrot Region Render Algorithm"
 importance = "interest"
 genre = ["prose", "maths"]

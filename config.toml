@@ -2,8 +2,9 @@ baseurl = "teoma.io/"
 languageCode = "en-gb"
 title = "jmorrice"
 
+disableRSS = true
+
+
 [taxonomies]
-project = "projects"
-sentiment = "sentiments"
-genre = "genres"
-import = "importance"
+tag = ""
+category = ""

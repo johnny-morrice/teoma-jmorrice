@@ -1,6 +1,6 @@
 +++
-date = "2016-02-29T14:54:26Z"
-draft = true
+date = "2016-02-29T17:39:04Z"
+draft = false
 title = "solumns: A Parody of Columns"
 projects = ["solumns"]
 sentiments = ["pride"]
