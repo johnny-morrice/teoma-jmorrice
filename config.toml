@@ -1,0 +1,9 @@
+baseurl = "http://teoma.io/~jmorrice/"
+languageCode = "en-gb"
+title = "jmorrice"
+
+[taxonomies]
+project = "projects"
+sentiment = "sentiments"
+genre = "genres"
+import = "importance"

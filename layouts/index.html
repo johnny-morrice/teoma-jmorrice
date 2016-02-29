@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Johnny's hacking page">
+    <meta name="keywords" content="programming,hacking,computers,maths">
+    <meta name="author" content="John Thorbjorn Morrice">
+    <title>The Homepage of Johnny Thorbjorn Morrice, Esq.</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <h1 id="title-bar" class="page-center">The Homepage of Johnny Thorbjorn Morrice, Esq.</h1>
+
+    <p id="greeting" class="page-center"><em>Greetings, my friend.<br>
+We are all interested in the future, for that is where you and I are going  to spend the rest of our lives.<br>
+And remember my friend, future events such as these will affect you in the  future.<br>
+You are interested in the unknown, the mysterious, the unexplainable.<br>
+That is why you are here.</em></p>
+
+    <p id="about" class="curve personal-rant page-center">My name is Johnny Thorbjorn Morrice.<br><br>I am a software developer from Scotland.<br><br>I like systems programming, immense computer technology demonstrations,  puzzle games, and fractals.<br><br>Mail to john at the domain functorama full stop com</p>
+
+    {{ range where .Data.Pages "Params.importance" "frontpage" }}
+    <div class="curve project page-center">
+      {{ .Content}}
+    </div>
+    {{ end }}
+  </body>
+</html>

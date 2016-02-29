@@ -1,0 +1,59 @@
+body {
+    color: rgb(200, 200, 200);
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+#title-bar {
+    background-color: black;
+    color: rgb(0, 255, 0);
+    padding-top: 0.5em;
+}
+
+#greeting {
+    background-color: black;
+    color: rgb(0, 255, 0);
+}
+
+.page-center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.personal-rant {
+    background-color: rgb(200, 200, 200);
+    color: black;
+    padding: 1em;
+    border-style: double;
+}
+
+.project {
+    background-color: rgb(200, 200, 200);
+    color: black;
+    padding: 1em;
+    border-style: double;
+    overflow: auto;
+}
+
+.project img {
+    float: left;
+    margin-right: 1em;
+    height: 5em;
+}
+
+.project a {
+    color: black;
+}
+
+.project a:hover {
+    color: black;
+}
+
+.project a:visited {
+    color: black;
+}
+
+.curve {
+    border-radius: 0.5em;
+}
