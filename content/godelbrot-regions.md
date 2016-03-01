@@ -15,7 +15,7 @@ If you look at the mandelbrot set (like the Godelbrot web interface) you will no
 
 The yellow, cloud like shapes occupy large regions of space.  There is also a lot of black (set members) in the image.  With the Go image library, as with many other image rendering packages, it takes many instructions to colour each output pixel individually.  It is much more efficient to draw large regions of the same colour at one time.  There seems to be some potential for optimization here.
 
-Unfortunately, the non-linear nature of the Mandelbrot set means efficent drawing is near-impossible to solve in general.  In practise however, I have found the following greedy space partitioning algorithm works well.
+Unfortunately, the non-linear nature of the Mandelbrot set means efficent drawing is near-impossible to solve in general.  In practise however, I have found the following space partitioning algorithm works well.
 
 ![Radius of sameness](/image/mandelbrot-radius.png)
 
