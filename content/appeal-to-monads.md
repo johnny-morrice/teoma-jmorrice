@@ -46,7 +46,7 @@ If you desperately want to use monads, *why not write your program in a language
 
 ## Conclusion.  *Therefore, X is good.*
 
-Even if monads are good, your thing is not a monad.  Perhaps it is superficially *like* some type of monad.  But it does not follow that it will be good; it does not follow that it would be good for the same reason that the monad was good (if it ever was).
+Even if monads are good, your thing is not a monad.  Perhaps it is superficially *like* some type of monad.  But it does not follow that it will be good; it does not follow that it would be good for the same reason that the monad was good.
 
 ## A counter example.
 
