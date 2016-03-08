@@ -63,7 +63,7 @@ Everyone agrees that nuclear power is legit, right?
 ## How to avoid making this mistake
 
 * Use the existing idioms of your programming language instead of wrongly applying Haskell idioms to PHP/Assembler/Brainfuck.
-* Avoid writing enthusiastic blog posts concerning IT industry buzzwords.
+* Refrain from writing enthusiastic blog posts concerning IT industry buzzwords.
 * Learn Haskell, to understand the concept.
 * Appreciate that some concepts are more powerful when they refer to a specific thing, instead of absorbing all possible similar and not-so-similar ideas.
 
