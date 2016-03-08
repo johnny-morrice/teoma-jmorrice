@@ -9,7 +9,7 @@ projects = ["Godelbrot"]
 
 # Rendering the Mandelbrot Set with Subdividing Regions
 
-If you look at the mandelbrot set (like the Godelbrot web interface) you will notice that some parts of the image are less complicated than other parts.
+If you look at the Mandelbrot set (like in the Godelbrot web interface) you will notice that some parts of the image are less complicated than other parts.
 
 ![Godelbrot Rendering](/image/mandelbrot-sameness.png)
 
