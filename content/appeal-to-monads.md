@@ -29,7 +29,7 @@ For some program, X, the following argument is made:
 
 This is a formal way of saying "X is *like* a monad".  Y is (presumed to be) the set to which some or all monads belong.  For X also to be a member of Y, it must share some property with the Monad.
 
-Typically this is a non-idiomatic form of error handling, or other control flow.
+Typically this property is a non-idiomatic form of error handling, or other control flow, that is said to somehow be *like* Haskell monad code.
 
 ## Premise 3.  *Monads are good.*
 
