@@ -11,7 +11,7 @@ projects = []
 
 *...In terms of the thought process behind how these structures are implemented I believe some similarities can be drawn, which does give me the impression that idea is not necessarily a bad one. In that same way that moving closer to the equator typically implies warmer weather.*  -- ["Monads" and the continuous spectrum of goodness proximity.](https://groups.google.com/d/msg/golang-nuts/FUQO1jMoG8E/yR84rmTAAAAJ)
 
-The Appeal to Monads is a form of logical fallacy which creeps up in programmer discussions.  Typically, a programmer presents some data structure and claims it is *like* a Monad, and is therefore good.
+The Appeal to Monads is a form of logical fallacy which creeps up in programmer discussions.  Typically, a programmer presents some data structure and claims it is *like* a Monad, and is therefore good.  Here, I demonstrate the argument is rubbish.
 
 ## Form of fallacy
 
