@@ -29,6 +29,8 @@ For some program, X, the following argument is made:
 
 This is a formal way of saying "X is *like* a monad".  Y is (presumed to be) the set to which some or all monads belong.  For X also to be a member of Y, it must share some property with the Monad.
 
+Typically this is a non-idiomatic form of error handling, or other control flow.
+
 ## Premise 3.  *Monads are good.*
 
 Monads are a form of abstraction that requires parametric polymorphism.  If your language does not support parametric polymorphism, you won't get a monad.
