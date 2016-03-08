@@ -42,8 +42,6 @@ Unless you write in a functional language that has:
 
 There is little utility to be found using monads: in your case monads are **bad**.
 
-If you desperately want to use monads, *why not write your program in a language that supports them?*
-
 ## Conclusion.  *Therefore, X is good.*
 
 Even if monads are good, your thing is not a monad.  Perhaps it is superficially *like* some type of monad.  But it does not follow that it will be good; it does not follow that it would be good for the same reason that the monad was good.
@@ -66,6 +64,7 @@ Everyone agrees that nuclear power is legit, right?
 * Refrain from writing enthusiastic blog posts concerning IT industry buzzwords.
 * Learn Haskell, to understand the concept.
 * Appreciate that some concepts are more powerful when they refer to a specific thing, instead of absorbing all possible similar and not-so-similar ideas.
+* If you desperately want to use monads, *why not write your program in a language that supports them?*
 
 ## Examples in the wild
 
