@@ -2,7 +2,8 @@
 date = "2016-07-03T22:39:36+01:00"
 draft = false
 title = "Nathan Barley, meet Autocad."
-
+genre = ["prose", "comedy", "review"]
+importance = "interest"
 +++
 
 # Nathan Barley, meet Autocad.
@@ -31,9 +32,9 @@ Excited, I rushed to the manufacturer's website.  But there I received a shock: 
 
 Certainly, there is a lot of hype, and that is because the keyboard has a killer feature: application specific keymaps.  When a certain program on your computer has focus on the screen, a helper app will reprogram your keyboard.  In this manner, you can have special keymaps for certain games, or even change from Qwerty to Dvorak or Colemak when editing documents.  
 
-It made me wonder though: couldn't all of that be done in software, rather than reprogramming the keyboard?  Non-English speakers use this functionality regularly, as all mainstream Operating Systems allow a user to change between say, Japanese and English by pressing a key combo.  If this automatic helper reprogrammed the OS keymap, then the user could use their old keyboard and wouldn't have to buy a very expensive new one.  (Expensive as it is worth nearly 4 *spacebars*!)
+It made me wonder though: couldn't all of that be done in software, rather than reprogramming the keyboard?  Non-English speakers use this functionality regularly, as all mainstream Operating Systems allow a user to change between say, Japanese and English by pressing a key combo.  If this automatic helper reprogrammed the OS keymap, then the user could use their old keyboard and wouldn't have to buy a very expensive new one.  (I say expensive as it is worth nearly 4 *spacebars*!)
 
-Well, building a program that solves an actually useful problem would go against manufacturing interests, and we can't have that.
+Well, building a program that actually solves a useful problem would go against manufacturing interests, and we can't have that.
 
 Back to the poll, why would anyone endorse a product that does not, and may never, exist?
 

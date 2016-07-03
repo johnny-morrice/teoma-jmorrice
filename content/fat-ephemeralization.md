@@ -3,7 +3,7 @@ date = "2016-07-03T22:22:02Z"
 draft = false
 title = "Fat Ephemeralization"
 genre = ["prose", "reflection"]
-
+importance = "interest"
 +++
 
 # Fat Ephemeralization and The Guarded Stewardship of Communication Epicentres
@@ -37,4 +37,4 @@ For hundreds of years, access to printing methods were strictly controlled.  Eve
 
 Shortwave radio is one exception to this trend. Using only a low power radio broadcast set, one can send a message to another continent without the permission of governments and large corporations.  It concerns me that in 2016, amateur radio is seen as an anorakish pursuit, rather than as a radical exercise in individual liberty.
 
-A question remains: does this high-constant factor in ephemeralization in communication technologies have a conventional explanation such as economic pressure and the deliberate policy of power brokers, or are we forced to reached for alternative explanations, such as information complexity, to explain why communication is fat and measurement is thin. If this essay were taken as a distance measurement, it would be a very long number indeed.
+A question remains: does this high-constant factor in ephemeralization in communication technologies have a conventional explanation such as economic pressure and the deliberate policy of power brokers, or are we forced to reached for alternative explanations. Can information complexity explain why the ephemeralization of communication is fat and that of measurement is thin? If this essay were taken as a distance measurement, it would be a very long number indeed.
