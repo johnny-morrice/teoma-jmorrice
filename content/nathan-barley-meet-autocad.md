@@ -56,6 +56,4 @@ I feel like a 1980s miner sacked from the coal pit one day, who then learns that
 
 If 15 years ago, someone at my school had told me that I could make shitloads of money selling individual spacebars, I probably would not have toiled to gain my sensible industrial skills.
 
-My new life plan is to give up software development.  Instead I will create Autocad drawings of keyboards with extra knives on, and crowdfund it all from the internet.
-
-
+My new life plan is to give up software development.  Instead I will create Autocad drawings of keyboards with extra knives on, and offer the renders for download.  I don't even need to manufacture them, since the item itself is totally fucking useless.  As long as my users can feel they personally identify with the idea of the product, that is enough.
