@@ -10,7 +10,7 @@ importance = "interest"
 
 ## The tale of a $60 space bar.
 
-Attracted by shiny objects, I registered an account on the Massdrop.com.  As it is a shopping site, and I am not a fraudster, I used my real name.  However, Massdrop is designed to be a *social experience*: it is a consumerist collective, or cult.  
+Attracted by shiny objects, I registered an account on a shopping site called [Massdrop](https://www.massdrop.com).  As it is a shopping site, and I am not a fraudster, I used my real name.  Howeverzis designed to be a *social experience*: it is a consumerist collective, or cult.  
 
 On Amazon, if you like something you can save it to a list without telling the entire world.  Massdrop is not designed with that usage in mind.  It is designed so that peers encourage one another to buy all sorts of crap, and it does this by sharing the details of your purchases with everybody else on the site.  Thus, as on any other social network, it is very easy to accidentally reveal too much of your personal information.
 
