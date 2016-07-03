@@ -1,6 +1,6 @@
 +++
-date = "2016-03-20T12:11:02Z"
-draft = true
+date = "2016-07-03T22:22:02Z"
+draft = false
 title = "Fat Ephemeralization"
 genre = ["prose", "reflection"]
 
@@ -31,34 +31,10 @@ Ephemeralization applies across the technological spectrum, but its consequences
 * Then the radio station: instant transmission of across vast distances.
 * Now we have the datacentre: enabling global many-to-many publication streams.
 
-At each stage we do more with less, but at each stage too, the system has become more centralized as pragmatic concerns limit the ability of an individual to control the medium of publication.  I would guess almost every reader owns a ruler, and many a rope;  certainly we all have access to some form of light.  In each of our homes we have an abundance of methods whereby we can measure distance.  On the communication front, home printer ownership in the industrialized world only became common in the 1990s.
+At each stage we do more with less, but at each stage too, the system has become more centralized as pragmatic concerns limit the ability of an individual to operate the medium of publication.  In each of our homes we have an abundance of methods whereby we can measure distance.  On the communication front, home printer ownership in the industrialized world only became common in the 1990s.
 
 For hundreds of years, access to printing methods were strictly controlled.  Even with a relaxation of social attitudes, individual printing remained a pragmatic impossibility until computers became a commodity.  Ironically, a situation which has made much print media obsolete.
 
-Need I ask how many correspondents own a radio transmitter with enough power to rival a local commercial station?  Or how many own or rent a single computer server: let alone a cluster of 500?
+Shortwave radio is one exception to this trend. Using only a low power radio broadcast set, one can send a message to another continent without the permission of governments and large corporations.  It concerns me that in 2016, amateur radio is seen as an anorakish pursuit, rather than as a radical exercise in individual liberty.
 
-Although different technological fields have experienced the same phenomenon of ephemeralization, a stark difference in the ownership and control of the resulting product has emerged.  Should we conclude that the manufacturers of metre sticks, lasers, ropes, and other measurement devices have an altruistic intent, while purveyors of computer technology intend to enslave the population?  No: there are fundamental forces at work, and in this essay I intend to enumerate them:
-
-* The software business is factory of services: Software Services and Gateway Devices
-* The information content of thought: The Complexity Of Thinking Machines
-* The technical difficulty of participating: The Brains of the Sneakernet
-
-## Software Services and Gateway Devices
-
-* Software is a service industry, not a manufacturing industry
-* Mobile phones do not give the user control; merely access to a service
-* Mass uptake is a new phenomenon; mass-production was well under way in Buckminster's days.
-* Data centres as service factories
-
-## The Complexity Of Thinking Machines
-
-* Shannon information content in prose versus scalar measures
-* In technical terms, is a far more difficult task to copy a letter than to take a measurement, even of a very long distance
-
-## The Brains of the Sneakernet
-
-* Consider the complexity of analogue thinking machines
-* Design an algorithm in terms of the sneakernet
-* The commercial failure of Windows home server; Mac Server
-* The attitudes of Linux users
-
+A question remains: does this high-constant factor in ephemeralization in communication technologies have a conventional explanation such as economic pressure and the deliberate policy of power brokers, or are we forced to reached for alternative explanations, such as information complexity, to explain why communication is fat and measurement is thin. If this essay were taken as a distance measurement, it would be a very long number indeed.
