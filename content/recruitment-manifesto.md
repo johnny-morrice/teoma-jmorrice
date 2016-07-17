@@ -10,7 +10,7 @@ As a ex-developer of recruitment industry software, I present to you my vision o
 
 # 1. We will not change the way you are hired.
 
-If *who-you-know* is not important, why is linked-in such a success?
+If *who-you-know* is not important, why is LinkedIn such a success?
 
 If *trends* aren't important, why are you more likely to be hired into machine learning than A.I.?
 
@@ -38,7 +38,7 @@ We will seek to become an actor that can co-exist with huge competitors.
 
 We must structure our whole product for interoperability.
 
-We seek network effects.
+We must seek network effects.
 
 We must be international.
 
@@ -46,7 +46,7 @@ We must be international.
 
 1. We will operate a candidate-facing web portal that is sane to use.
 
-2. We will scan all types of data including traditional CVs, source code, personal home pages, social media profiles, and the web-presence of a candidate's current employer.  
+2. We will process heterogenous data on candidates including traditional CVs, jobs-actually-applied-for, personal home pages, social media profiles, the web-presence of a candidate's current employer, source code, ...  
 
 3. All data will be provided voluntarily by candidates who are looking for a job.
 
