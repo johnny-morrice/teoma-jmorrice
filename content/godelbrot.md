@@ -13,7 +13,7 @@ importance = "frontpage"
 
 ![Mandelbrot set](/image/mandelbrot.png)
 
-Godelbrot is a Unix-style Mandelbrot renderer.  It is designed to be extensible both in terms of its algorithms and in its usage as a command line app.  It currently supports native precision rendering, and a somewhat naive arbitrary precision renderer. Future plans include automatic video rendering and a permutation-based renderer.
+Godelbrot is a Unix-style Mandelbrot renderer.  It is designed to be extensible both in terms of its algorithms and in its usage as a command line app.
 
 *Demo:* http://godelbrot.functorama.com
 
